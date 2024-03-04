@@ -1,0 +1,61 @@
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://apps.db.ripe.net/docs/HTML-Terms-And-Conditions
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '84.9.51.0 - 84.9.51.255'
+
+% Abuse contact for '84.9.51.0 - 84.9.51.255' is 'ipabuse@vodafone.co.uk'
+
+inetnum:        84.9.51.0 - 84.9.51.255
+netname:        VODAFONE-FIXED-IP
+descr:          Fixed IP (Static)
+descr:          Vodafone Wholesale Broadband
+descr:          bkl-bng-012 Bracknell
+country:        GB
+admin-c:        BC419-RIPE
+tech-c:         BC419-RIPE
+remarks:        INFRA-AW
+status:         ASSIGNED PA
+mnt-by:         BDDSL-MNT
+created:        2015-08-12T14:05:16Z
+last-modified:  2015-08-12T14:05:16Z
+source:         RIPE
+
+role:           Vodafone Limited
+abuse-mailbox:  ipabuse@vodafone.co.uk
+address:        114 Great Suffolk Street
+address:        London
+address:        SE1 0SL
+remarks:        ---------------------------------------------------
+remarks:        Please do NOT send abuse complaints to the contacts
+remarks:        listed. Please email them to ipabuse@vodafone.co.uk
+remarks:        ---------------------------------------------------
+admin-c:        MN4790-RIPE
+admin-c:        EJ343-RIPE
+admin-c:        MB4
+tech-c:         EJ343-RIPE
+tech-c:         MB4
+mnt-by:         BDDSL-MNT
+nic-hdl:        BC419-RIPE
+created:        2002-08-22T08:17:39Z
+last-modified:  2020-11-16T13:44:05Z
+source:         RIPE # Filtered
+
+% Information related to '84.9.51.0/24AS5378'
+
+route:          84.9.51.0/24
+descr:          Vodafone Broadband
+origin:         AS5378
+mnt-by:         BDDSL-MNT
+created:        2023-05-16T14:04:26Z
+last-modified:  2023-05-16T14:04:26Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.108 (BUSA)
+
+

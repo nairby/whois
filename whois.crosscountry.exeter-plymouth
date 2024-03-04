@@ -1,0 +1,97 @@
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://apps.db.ripe.net/docs/HTML-Terms-And-Conditions
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '185.201.60.0 - 185.201.61.255'
+
+% Abuse contact for '185.201.60.0 - 185.201.61.255' is 'abuse@nomadrail.com'
+
+inetnum:        185.201.60.0 - 185.201.61.255
+netname:        UK-NOMAD-20170428
+descr:          Nomad Digital
+country:        GB
+org:            ORG-NDL2-RIPE
+admin-c:        ND6462-RIPE
+tech-c:         ND6462-RIPE
+status:         LIR-PARTITIONED PA
+mnt-by:         NOMAD-MNT
+mnt-routes:     NOMAD-MNT
+mnt-routes:     GB10488-RIPE-MNT
+created:        2017-05-07T21:23:15Z
+last-modified:  2017-05-07T21:23:15Z
+source:         RIPE
+
+organisation:   ORG-NDL2-RIPE
+org-name:       Nomad Digital Limited
+country:        GB
+org-type:       LIR
+address:        The Place, 8th Floor, High Holborn
+address:        WC1V 7AA
+address:        London
+address:        UNITED KINGDOM
+phone:          +442070966966
+abuse-c:        AR17814-RIPE
+admin-c:        ND6462-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        NOMAD-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         NOMAD-MNT
+created:        2007-06-28T11:23:27Z
+last-modified:  2023-04-05T06:32:36Z
+source:         RIPE # Filtered
+
+role:           Nomad NOC - DBM
+address:        5th Floor, One Trinity, Broad Chare
+address:        NE1 2HF
+address:        Newcastle Upon Tyne
+address:        UNITED KINGDOM
+phone:          +44 02070966966
+nic-hdl:        ND6462-RIPE
+abuse-mailbox:  abuse@nomadrail.com
+mnt-by:         NOMAD-MNT
+created:        2017-04-05T13:30:26Z
+last-modified:  2017-04-05T13:30:26Z
+source:         RIPE # Filtered
+
+% Information related to '185.201.60.0/23AS20860'
+
+route:          185.201.60.0/23
+descr:          iomart Hosting Limited
+origin:         AS20860
+org:            ORG-IA70-RIPE
+mnt-by:         IOMART-MNT
+mnt-by:         GB10488-RIPE-MNT
+created:        2017-09-29T14:16:19Z
+last-modified:  2017-09-29T14:16:19Z
+source:         RIPE
+
+organisation:   ORG-IA70-RIPE
+org-name:       IOMART CLOUD SERVICES LIMITED
+country:        GB
+org-type:       LIR
+address:        6 Atlantic Quay, 55 Robertson Street
+address:        G2 8JD
+address:        Glasgow
+address:        UNITED KINGDOM
+phone:          +44 141 931 6400
+fax-no:         +44 141 931 6401
+admin-c:        RM1358-RIPE
+admin-c:        SMC74-RIPE
+mnt-ref:        GB10488-RIPE-MNT
+mnt-ref:        IOMART-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         IOMART-MNT
+abuse-c:        IA3304-RIPE
+created:        2004-04-17T12:19:32Z
+last-modified:  2023-08-08T02:52:33Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.108 (SHETLAND)
+
+

@@ -1,0 +1,85 @@
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://apps.db.ripe.net/docs/HTML-Terms-And-Conditions
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '109.176.0.0 - 109.176.255.255'
+
+% Abuse contact for '109.176.0.0 - 109.176.255.255' is 'abuse@gcicom.net'
+
+inetnum:        109.176.0.0 - 109.176.255.255
+netname:        UK-GCINETWORK-20090826
+country:        GB
+org:            ORG-GNSL2-RIPE
+admin-c:        GCI1-RIPE
+tech-c:         GCI1-RIPE
+status:         ALLOCATED PA
+mnt-by:         MNT-GCICOM
+mnt-by:         RIPE-NCC-HM-MNT
+created:        2022-05-30T10:43:40Z
+last-modified:  2022-05-30T10:43:40Z
+source:         RIPE
+
+organisation:   ORG-GNSL2-RIPE
+org-name:       GCI Network Solutions Limited
+country:        GB
+org-type:       LIR
+address:        19-25 Nuffield Road
+address:        BH17 0RU
+address:        Poole
+address:        UNITED KINGDOM
+phone:          +44 844 4434 433
+admin-c:        GCI1-RIPE
+tech-c:         GCI1-RIPE
+abuse-c:        GCI1-RIPE
+mnt-ref:        MNT-GCICOM
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         MNT-GCICOM
+created:        2017-02-22T10:07:58Z
+last-modified:  2022-03-29T07:16:44Z
+source:         RIPE # Filtered
+
+role:           GCI Service Desk
+address:        Global House
+address:        2A Crofton Close
+address:        Lincoln
+address:        LN3 4NT
+admin-c:        SM32329-RIPE
+admin-c:        JB5840-RIPE
+tech-c:         SM32329-RIPE
+tech-c:         JB5840-RIPE
+abuse-mailbox:  abuse@gcicom.net
+phone:          +44 844 443 3538
+nic-hdl:        GCI1-RIPE
+mnt-by:         MNT-GCICOM
+created:        2013-04-30T11:01:01Z
+last-modified:  2019-10-15T11:46:18Z
+source:         RIPE # Filtered
+
+% Information related to '109.176.0.0/16AS206509'
+
+route:          109.176.0.0/16
+origin:         AS206509
+mnt-by:         ECLINET-NMC
+mnt-by:         ECHM1-RIPE-MNT
+mnt-by:         KINGSTON-MNT
+created:        2019-02-15T12:08:12Z
+last-modified:  2019-02-15T12:08:12Z
+source:         RIPE
+
+% Information related to '109.176.0.0/16AS8851'
+
+route:          109.176.0.0/16
+origin:         AS8851
+mnt-by:         MNT-GCICOM
+created:        2023-08-21T10:42:28Z
+last-modified:  2023-08-21T10:42:28Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.109.1 (ABERDEEN)
+
+

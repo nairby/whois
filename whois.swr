@@ -1,0 +1,49 @@
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://apps.db.ripe.net/docs/HTML-Terms-And-Conditions
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '185.104.136.48 - 185.104.136.48'
+
+% Abuse contact for '185.104.136.48 - 185.104.136.48' is 'abuse@icomera.com'
+
+inetnum:        185.104.136.48 - 185.104.136.48
+netname:        ICO-CUST-SWR
+descr:          South Western Rail
+country:        GB
+geoloc:         51.486681369646334 0.0955480253512149
+admin-c:        INO29-RIPE
+tech-c:         INO29-RIPE
+status:         ASSIGNED PA
+mnt-by:         se-icomera-netops-mnt
+mnt-by:         se-icomera-1-mnt
+created:        2021-02-11T08:37:12Z
+last-modified:  2021-12-03T12:18:49Z
+source:         RIPE
+
+role:           Icomera Network Operations
+address:        Odinsgatan 28
+address:        411 03, Gothenburg
+address:        Sweden
+nic-hdl:        INO29-RIPE
+mnt-by:         se-icomera-netops-mnt
+created:        2021-11-04T12:43:53Z
+last-modified:  2021-11-04T13:26:58Z
+source:         RIPE # Filtered
+
+% Information related to '185.104.136.0/24AS50300'
+
+route:          185.104.136.0/24
+origin:         AS50300
+mnt-by:         se-icomera-1-mnt
+created:        2019-05-09T13:55:50Z
+last-modified:  2020-09-23T15:07:40Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.108 (BUSA)
+
+

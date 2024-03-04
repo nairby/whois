@@ -1,0 +1,166 @@
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2023, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       141.0.0.0 - 141.255.255.255
+CIDR:           141.0.0.0/8
+NetName:        RIPE-ERX-141
+NetHandle:      NET-141-0-0-0-0
+Parent:          ()
+NetType:        Early Registrations, Maintained by RIPE NCC
+OriginAS:       
+Organization:   RIPE Network Coordination Centre (RIPE)
+RegDate:        1993-05-01
+Updated:        2009-05-18
+Comment:        These addresses have been further assigned to users in
+Comment:        the RIPE NCC region.  Contact information can be found in
+Comment:        the RIPE database at http://www.ripe.net/whois
+Ref:            https://rdap.arin.net/registry/ip/141.0.0.0
+
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+ResourceLink:  whois.ripe.net
+
+
+OrgName:        RIPE Network Coordination Centre
+OrgId:          RIPE
+Address:        P.O. Box 10096
+City:           Amsterdam
+StateProv:      
+PostalCode:     1001EB
+Country:        NL
+RegDate:        
+Updated:        2013-07-29
+Ref:            https://rdap.arin.net/registry/entity/RIPE
+
+ReferralServer:  whois://whois.ripe.net
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+
+OrgTechHandle: RNO29-ARIN
+OrgTechName:   RIPE NCC Operations
+OrgTechPhone:  +31 20 535 4444 
+OrgTechEmail:  hostmaster@ripe.net
+OrgTechRef:    https://rdap.arin.net/registry/entity/RNO29-ARIN
+
+OrgAbuseHandle: ABUSE3850-ARIN
+OrgAbuseName:   Abuse Contact
+OrgAbusePhone:  +31205354444 
+OrgAbuseEmail:  abuse@ripe.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE3850-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2023, American Registry for Internet Numbers, Ltd.
+#
+
+
+
+Found a referral to whois.ripe.net.
+
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://apps.db.ripe.net/docs/HTML-Terms-And-Conditions
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '141.163.0.0 - 141.163.127.255'
+
+% Abuse contact for '141.163.0.0 - 141.163.127.255' is 'irt@jisc.ac.uk'
+
+inetnum:        141.163.0.0 - 141.163.127.255
+netname:        UNI-PLYMOUTH-LINR
+org:            ORG-UOP10-RIPE
+descr:          University of Plymouth
+country:        GB
+admin-c:        AJ4628-RIPE
+admin-c:        MC41657-RIPE
+tech-c:         OD1827-RIPE
+status:         LEGACY
+mnt-by:         UOP-SUPMAN
+mnt-by:         UOP-TECH-MNT
+created:        2022-02-07T07:50:29Z
+last-modified:  2022-02-07T07:50:29Z
+source:         RIPE
+
+organisation:   ORG-UOP10-RIPE
+org-name:       University of Plymouth
+org-type:       OTHER
+address:        Drake Circus
+address:        Plymouth
+address:        PL4 8AA
+address:        England
+abuse-c:        JCA95-RIPE
+mnt-ref:        JANET-HOSTMASTER
+mnt-by:         JANET-HOSTMASTER
+created:        2017-10-12T14:14:55Z
+last-modified:  2017-10-12T14:14:55Z
+source:         RIPE # Filtered
+
+person:         Adrian Jane
+address:        University of Plymouth
+address:        Drake Circus
+address:        PL4 8AA
+address:        England
+phone:          +441752 587104
+nic-hdl:        AJ4628-RIPE
+mnt-by:         JIPS-NOSC
+created:        2017-10-12T14:21:46Z
+last-modified:  2017-10-12T14:21:46Z
+source:         RIPE # Filtered
+
+person:         Matthew Campbell
+address:        University of Plymouth, Drake Circus, Plymouth, Devon, PL4 8AA, UK
+phone:          +44 1752 587197
+nic-hdl:        MC41657-RIPE
+mnt-by:         UOP-SUPMAN
+created:        2020-06-30T09:47:55Z
+last-modified:  2020-06-30T09:50:14Z
+source:         RIPE
+
+person:         Operations Desk
+address:        University of Plymouth
+address:        Drake Circus
+address:        PL4 8AA
+address:        England
+phone:          +441752 587104
+nic-hdl:        OD1827-RIPE
+mnt-by:         JIPS-NOSC
+mnt-by:         JANET-HOSTMASTER
+created:        2017-10-12T14:17:00Z
+last-modified:  2017-10-12T14:22:57Z
+source:         RIPE # Filtered
+
+% Information related to '141.163.0.0/17AS786'
+
+route:          141.163.0.0/17
+descr:          The University of Plymouth
+descr:          Drake Circus
+descr:          Plymouth
+descr:          Devon
+descr:          PL4 8AA
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+created:        2021-07-08T12:04:05Z
+last-modified:  2021-07-08T12:04:05Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.108 (ABERDEEN)
+
+
