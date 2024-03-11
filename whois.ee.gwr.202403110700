@@ -1,0 +1,79 @@
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://apps.db.ripe.net/docs/HTML-Terms-And-Conditions
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '31.64.0.0 - 31.127.255.255'
+
+% Abuse contact for '31.64.0.0 - 31.127.255.255' is 'abuse@ee.co.uk'
+
+inetnum:        31.64.0.0 - 31.127.255.255
+netname:        UK-TM-20101125
+country:        GB
+org:            ORG-TIUL1-RIPE
+admin-c:        TMUK-RIPE
+tech-c:         TMUK-RIPE
+status:         ALLOCATED PA
+remarks:        For general security matters, not relating to individual customers, please contact security@ee.co.uk
+remarks:        For matters relating to abuse of services by individual customers, please contact abuse@ee.co.uk
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         AS12576-MNT
+mnt-lower:      TMUK-MNT
+mnt-lower:      AS12576-MNT
+mnt-domains:    TMUK-MNT
+mnt-routes:     TMUK-MNT
+created:        2015-10-26T09:58:51Z
+last-modified:  2016-09-15T16:17:54Z
+source:         RIPE # Filtered
+
+organisation:   ORG-TIUL1-RIPE
+org-name:       EE Limited
+country:        GB
+org-type:       LIR
+address:        PP1, Floor1, Orion, Adastral Park, Martlesham Heath
+address:        IP5 3RE
+address:        Ipswich
+address:        UNITED KINGDOM
+phone:          +44 (0)20 7356 5000
+admin-c:        TMUK-RIPE
+admin-c:        EE1964-RIPE
+admin-c:        FLS15-RIPE
+abuse-c:        EE1964-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        AS12576-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         AS12576-MNT
+created:        2004-04-17T12:22:43Z
+last-modified:  2023-12-03T14:11:12Z
+source:         RIPE # Filtered
+
+role:           EE UK RIPE Admin
+address:        PP1, Floor1, Orion, Adastral Park, Martlesham Heath
+address:        Ipswich
+address:        IP5 3RE
+abuse-mailbox:  ripe.admin@ee.co.uk
+admin-c:        EE1964-RIPE
+mnt-by:         TMUK-MNT
+tech-c:         EE1964-RIPE
+tech-c:         EE1964-RIPE
+nic-hdl:        TMUK-RIPE
+created:        2009-07-15T08:59:08Z
+last-modified:  2023-12-03T14:12:59Z
+source:         RIPE # Filtered
+
+% Information related to '31.94.0.0/16AS2856'
+
+route:          31.94.0.0/16
+origin:         AS2856
+mnt-by:         BTNET-INFRA-MNT
+created:        2022-03-07T23:21:09Z
+last-modified:  2022-03-07T23:21:09Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.109.1 (SHETLAND)
+
+
